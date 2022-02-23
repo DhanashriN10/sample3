@@ -9,3 +9,4 @@ check()
 }
 read -p "Enter the num:" n
 check  $n
+echo "Hello"
